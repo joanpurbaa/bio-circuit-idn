@@ -1,0 +1,4 @@
+project_id = "jyuwjffdzogqvocuzdcj"
+
+[functions.summarize-pdf]
+verify_jwt = false
